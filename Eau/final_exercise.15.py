@@ -1,0 +1,1 @@
+print("J'ai terminé l'épreuve de l'eau et c'était pas trop mal. Deux ou trois exercices vraiment difficiles mais sinon j'ai même gagné confiance en moi par rapport à la première épreuve.")
